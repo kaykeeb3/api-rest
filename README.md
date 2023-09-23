@@ -2,7 +2,7 @@
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+<em>Esse projeto foi desenvolvido com as seguintes tecnologias:</em>
 
 - Typescript
 - Node js 
