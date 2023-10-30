@@ -2,7 +2,7 @@
 
 ## 🚀 Tecnologias
 
-Este projeto foi desenvolvido utilizando as seguintes tecnologias de ponta:
+Este projeto foi desenvolvido utilizando as seguintes tecnologias de ponta
 
 - **Typescript**: Garante a segurança e facilidade de manutenção do código.
 - **Node.js**: Plataforma de execução de código JavaScript no servidor.
