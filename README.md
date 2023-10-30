@@ -1,4 +1,4 @@
-<h1 align="center">API Rest para Gestão de Hábitos Diários</h1>
+<h2 align="center">API Rest para Gestão de Hábitos Diários</h2>
 
 ## 🚀 Tecnologias
 
